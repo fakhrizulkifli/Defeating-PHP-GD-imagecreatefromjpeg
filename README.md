@@ -1,4 +1,4 @@
-# Exploiting PHP-GD imagecreatefromgif() function
+# Exploiting PHP-GD imagecreatefromjpeg() function
 Proof-of-concept to exploit the flaw in the PHP-GD built-in function, imagecreatefromjpeg(). Inspired by one of Reddit's comment on my previous thread regarding exploiting the imagecreatefromgif() PHP-GD function.
 
 This is the script to generate the payload
