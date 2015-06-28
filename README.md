@@ -1,7 +1,7 @@
 # Exploiting PHP-GD imagecreatefromjpeg() function
 Proof-of-concept to exploit the flaw in the PHP-GD built-in function, imagecreatefromjpeg(). Inspired by one of Reddit's comment on my previous thread regarding exploiting the imagecreatefromgif() PHP-GD function.
 
-###### Warning: This POC was tested using libJPEG v8.0 only. The POC require the same libJPEG version in order to be able to execute the PHP code.
+###### Warning: This POC was tested using libJPEG v8.0 only. The image requires the same libJPEG version in order to be able to execute the PHP code.
 
 This is the script to generate the payload
 
